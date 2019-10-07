@@ -3,7 +3,7 @@ body{
   background-repeat:no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  background-size: 1000px 900px;
+  background-size: 2000px 900px;
   background-color: #759497;
 
 }
@@ -40,6 +40,11 @@ body{
   text-align: center;
   font-size: 60px;
 }
+
+.aligncenter {
+    text-align: center;
+}
+
 
 
 #soon{
