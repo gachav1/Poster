@@ -13,12 +13,14 @@ body{
   padding-top: 5px;
   text-align: center;
   font-size: 20px;
+  color: black;
 
 }
 
 #joel{
   margin-top: 0px;
   text-align: center;
+  color: black;
 }
 
 #star{
@@ -39,6 +41,7 @@ body{
 #title{
   text-align: center;
   font-size: 60px;
+  color: black;
 }
 
 .aligncenter {
@@ -51,6 +54,7 @@ body{
   margin-bottom: 0px;
   text-align: center;
   font-size: 30px;
+  color: black;
 }
 
 #web{
